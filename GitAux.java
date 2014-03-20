@@ -21,4 +21,9 @@ public class GitAux {
     public void metodoComunitario(){
         System.out.println("Aqui escribimos todos");
     }
+
+	public void testGitAux(){
+	//Metodo rama nenitoo
+	System.out.println("metodo nenitoo");
+    }
 }
